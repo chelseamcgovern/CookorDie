@@ -1,0 +1,32 @@
+{
+  "name": "cookordie",
+  "version": "1.0.0",
+  "description": "CookorDie is a food budgeting app that uses pictuventory of your kitchen. ",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bcookordie.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseamcgovern/CookorDie.git"
+  },
+  "keywords": [
+    "\"food\"",
+    "\"bugeting\"",
+    "\"the",
+    "struggle\""
+  ],
+  "author": "Chelsea McGovern, Jared Jones, Theresa Ponder, Liseth Chitica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelseamcgovern/CookorDie/issues"
+  },
+  "homepage": "https://github.com/chelseamcgovern/CookorDie#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "mysql": "^2.15.0"
+  }
+}
